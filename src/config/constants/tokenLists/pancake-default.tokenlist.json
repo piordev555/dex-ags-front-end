@@ -1,0 +1,102 @@
+{
+  "name": "PancakeSwap Default List",
+  "timestamp": "2021-05-06T00:00:00Z",
+  "version": {
+    "major": 3,
+    "minor": 0,
+    "patch": 0
+  },
+  "tags": {},
+  "logoURI": "https://pancakeswap.finance/logo.png",
+  "keywords": ["pancake", "default"],
+  "tokens": [
+    {
+      "name": "WASTR Token",
+      "symbol": "WASTR",
+      "address": "0xAeaaf0e2c81Af264101B9129C00F4440cCF0F720",
+      "chainId": 592,
+      "decimals": 18,
+      "logoURI": "https://pancakeswap.finance/images/tokens/0xAeaaf0e2c81Af264101B9129C00F4440cCF0F720.png"
+    },
+    {
+      "name": "AGS Token",
+      "symbol": "AGS",
+      "address": "0x233729E6A3A5DA3Cf6ee5c2B85C56ab3997FD001",
+      "chainId": 592,
+      "decimals": 18,
+      "logoURI": "https://pancakeswap.finance/images/tokens/0x0e09fabb73bd3ade0a17ecc321fd13a19e81ce82.png"
+    },
+    {
+      "name": "Ethereum Token",
+      "symbol": "WETH",
+      "address": "0x81ECac0D6Be0550A00FF064a4f9dd2400585FE9c",
+      "chainId": 592,
+      "decimals": 18,
+      "logoURI": "https://pancakeswap.finance/images/tokens/0x2170ed0880ac9a755fd29b2688956bd959f933f8.png"
+    },
+    {
+      "name": "BTC Token",
+      "symbol": "WBTC",
+      "address": "0xad543f18cFf85c77E140E3E5E3c3392f6Ba9d5CA",
+      "chainId": 592,
+      "decimals": 18,
+      "logoURI": "https://pancakeswap.finance/images/tokens/0x7130d2a12b9bcbfae4f2634d864a1ee1ce3ead9c.png"
+    },
+    {
+      "name": "Tether USD",
+      "symbol": "USDT",
+      "address": "0x3795C36e7D12A8c252A20C5a7B455f7c57b60283",
+      "chainId": 592,
+      "decimals": 6,
+      "logoURI": "https://pancakeswap.finance/images/tokens/0x55d398326f99059ff775485246999027b3197955.png"
+    },
+    {
+      "name": "Matic Token",
+      "symbol": "MATIC",
+      "address": "0xdd90E5E87A2081Dcf0391920868eBc2FFB81a1aF",
+      "chainId": 592,
+      "decimals": 18,
+      "logoURI": "https://pancakeswap.finance/images/tokens/0x0e09fabb73bd3ade0a17ecc321fd13a19e81ce82.png"
+    },
+    {
+      "name": "BNB Token",
+      "symbol": "BNB",
+      "address": "0x7f27352D5F83Db87a5A3E00f4B07Cc2138D8ee52",
+      "chainId": 592,
+      "decimals": 18,
+      "logoURI": "https://pancakeswap.finance/images/tokens/0x0e09fabb73bd3ade0a17ecc321fd13a19e81ce82.png"
+    },
+    {
+      "name": "BUSD Token",
+      "symbol": "BUSD",
+      "address": "0x4Bf769b05E832FCdc9053fFFBC78Ca889aCb5E1E",
+      "chainId": 592,
+      "decimals": 18,
+      "logoURI": "https://pancakeswap.finance/images/tokens/0x0e09fabb73bd3ade0a17ecc321fd13a19e81ce82.png"
+    },
+    {
+      "name": "DAI Token",
+      "symbol": "DAI",
+      "address": "0x6De33698e9e9b787e09d3Bd7771ef63557E148bb",
+      "chainId": 592,
+      "decimals": 18,
+      "logoURI": "https://pancakeswap.finance/images/tokens/0x0e09fabb73bd3ade0a17ecc321fd13a19e81ce82.png"
+    },
+    {
+      "name": "USDC Token",
+      "symbol": "USDC",
+      "address": "0x6a2d262D56735DbA19Dd70682B39F6bE9a931D98",
+      "chainId": 592,
+      "decimals": 6,
+      "logoURI": "https://pancakeswap.finance/images/tokens/0x0e09fabb73bd3ade0a17ecc321fd13a19e81ce82.png"
+    },
+    {
+      "name": "Astar Lynx",
+      "symbol": "LYNX",
+      "address": "0x81bC9336f22D832555ceA0Ad84A3FD7F7426cf47",
+      "chainId": 592,
+      "decimals": 9,
+      "logoURI": "https://pancakeswap.finance/images/tokens/0x81bC9336f22D832555ceA0Ad84A3FD7F7426cf47.png"
+    }
+  ]
+}
